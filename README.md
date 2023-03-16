@@ -9,4 +9,4 @@ Course practice, assignments, and implementation of machine learning algorithms 
 
 
 ### Assignment 2
-- [Regression]
+- [Regression](./Assignment%202/Ibrahim%20Mohamed%20-%20A2_Regression.ipynb)
