@@ -15,4 +15,4 @@ Course practice, assignments, and implementation of machine learning algorithms 
 - [Decision Tree Class with ID3 Algorithm](./Assignment%203/Ibrahim%20Mohamed%20-%20A3_Decision%20Tree.ipynb)
 
 ### Assignment 4
-- [Comparison between Decision Trees & Regression](./Assignment%204/Ibrahim_Mohamed_A4_DT.ipynb)
+- [ Decision Trees vs Logistic Regression](./Assignment%204/Ibrahim_Mohamed_A4_DT.ipynb)
