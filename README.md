@@ -16,3 +16,6 @@ Course practice, assignments, and implementation of machine learning algorithms 
 
 ### Assignment 4
 - [ Decision Trees vs Logistic Regression](./Assignment%204/Ibrahim_Mohamed_A4_DT.ipynb)
+
+### Assignment 5
+- [K-Means Class & K-Medoids Class with Euclidean Distance as Metric](./Assignment%205/Ibrahim_Mohamed_A5_K-means.ipynb)
