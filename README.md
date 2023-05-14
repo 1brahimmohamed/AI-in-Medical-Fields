@@ -19,3 +19,6 @@ Course practice, assignments, and implementation of machine learning algorithms 
 
 ### Assignment 5
 - [K-Means Class & K-Medoids Class with Euclidean Distance as Metric](./Assignment%205/Ibrahim_Mohamed_A5_K-means.ipynb)
+
+### Assignment 6
+- [Principal Component Analysis & Support Vector Machines](./Assignment%206/Ibrahim%20Mohamed%20-%20A6%20PCA%20SVM.ipynb)
