@@ -22,3 +22,6 @@ Course practice, assignments, and implementation of machine learning algorithms 
 
 ### Assignment 6
 - [Principal Component Analysis & Support Vector Machines](./Assignment%206/Ibrahim%20Mohamed%20-%20A6%20PCA%20SVM.ipynb)
+
+### Assignment 7
+- [Recommender System Algorithm with Collaborative Filtering](./Assignment%207/Ibrahim%20Mohamed%20A7%20Recomendation%20System.ipynb)
